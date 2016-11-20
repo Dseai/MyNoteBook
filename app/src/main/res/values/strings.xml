@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">记事本</string>
+    <string name="action_settings">菜单</string>
+    <string name="title">标题</string>
+    <string name="save">保存</string>
+    <string name="contents">内容</string>
+</resources>
